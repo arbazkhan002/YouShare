@@ -11,12 +11,6 @@ Hey!
 #. Now login via browser and start using ShareU with features like upload,download,share,create folder. 
 #. Use command 'sudo python client.py' to run the client code.The client code is present in the directory /client And login as user.
 
-Work Division: 
-Framing & plotting done by all four of us.
-
-Server(both main and alternate) & Client files in python by Arbaz Khan & Mayank Dang.
-Server side file upload, download, sharing and access control in php by Aman Kumar Singh. 
-Website design in php, CSS, CSS3, Jquery, javascript, user authentication & session control by Pavan Sharma.
 
 Thanks & Regards
 Aman Kumar Singh Y9066					Arbaz Khan Y9128
